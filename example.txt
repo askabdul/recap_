@@ -1,2 +1,3 @@
-An introduction to git commands such creating branched and switching to and fro
+An introduction to git commands such as creating branches and switching to and fro. 
+This is to help us learn more about git.
 
